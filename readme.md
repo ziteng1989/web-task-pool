@@ -1,3 +1,7 @@
+### introduce
+
+a web worker task pool for run task
+
 ### install
 
 npm install web-task-pool
