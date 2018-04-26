@@ -1,0 +1,45 @@
+{
+  "name": "web-task-pool",
+  "version": "1.0.0",
+  "description": "web worker pool",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziteng1989/web-task-pool.git"
+  },
+  "keywords": [
+    "web",
+    "worder",
+    "async",
+    "task",
+    "pool",
+    "task",
+    "await"
+  ],
+  "author": "ziteng （紫藤）",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziteng1989/web-task-pool/issues"
+  },
+  "homepage": "https://github.com/ziteng1989/web-task-pool#readme",
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
+    "babel-plugin-transform-es2015-modules-umd": "^6.24.1",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "fs": "^0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "moment": "^2.22.1",
+    "roadhog": "^2.3.0",
+    "through2": "^2.0.3"
+  },
+  "dependencies": {
+    "greenlet": "^0.1.2",
+    "rc-ctrl": "^1.0.0"
+  }
+}
