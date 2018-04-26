@@ -1,12 +1,12 @@
-### introduce
+## introduction
 
-a web worker task pool for run task
+a web worker task pool to run task
 
-### install
+## install
 
 npm install web-task-pool
 
-### usage
+## usage
 
 ```js
 
